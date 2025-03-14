@@ -23,4 +23,4 @@ Movie Data: The primary dataset used for this analysis is the "Movies Data Ready
    - Removing extra spaces, special characters, and inconsistencies in the dataset for automation legibility.
  - Validation of Cleaned Data:
    - Cross-checked data from Pivot tables for errors or inconsistencies in the cleaned dataset before analysis.
- - The interactive dashboard with post cleaned and prepared data can be downloded here: 
+ - The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard Download](Apple TV Movie Data Dashboard - Yaraslau S.xlsx)
