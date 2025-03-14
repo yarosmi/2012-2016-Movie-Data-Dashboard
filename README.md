@@ -31,4 +31,9 @@ Movie Data: The primary dataset used for this analysis is the "Movies Data Ready
 3. Who were the top performing cast in the Action movie genre from from all combined years?
 4. What is the most profitable movie from all combined years?
 
+### Dashboard
+Preview of how the dashboard will look when you open it: ![Dashboard Screenshot](https://github.com/user-attachments/assets/44eedda5-bc6e-452a-b37e-f6279c615b22)
+
 ### Results and Findings
+- Horror dominates in profitability with The Devil Inside's box office revenue of $102,000,000 USD, making it a safe pick for studios targeting high ROI with low budgets. ![Best Profitable Movie Screenshot](https://github.com/user-attachments/assets/18eccef0-6278-4bff-92bd-53a7be5effcc)
+- 
