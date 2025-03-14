@@ -43,8 +43,7 @@ Movie Data: The primary dataset used for this analysis is the [Movies Data Ready
 Preview of how the dashboard will look when you open it: ![Dashboard Screenshot](https://github.com/user-attachments/assets/44eedda5-bc6e-452a-b37e-f6279c615b22)
 
 ### Results and Findings
-- Horror dominates in profitability with The Devil Inside's box office revenue of $102,000,000 USD, making it a safe pick for studios targeting high ROI with low budgets.
-  ![Best Profitable Movie Screenshot](https://github.com/user-attachments/assets/18eccef0-6278-4bff-92bd-53a7be5effcc)
+- ![Best Profitable Movie Screenshot](https://github.com/user-attachments/assets/18eccef0-6278-4bff-92bd-53a7be5effcc) Horror dominates in profitability with The Devil Inside's box office revenue of $102,000,000 USD, making it a safe pick for studios targeting high ROI with low budgets.
 - Biography, Sports and Musical genres have negative average ROIs, likely due to niche audiences and underperformance.
 - Quarter 2 and 3 are the best times to release movies with the exception of seasonal movies.
 - Action movies tend to be most popular following Comedy and Adventure genres.
@@ -52,5 +51,5 @@ Preview of how the dashboard will look when you open it: ![Dashboard Screenshot]
 - In the timeline of the dataset, Jennifer Lawrence is the highest grossing movie lead in the top 5 cast while being the only actress, the follwing cast are actors.
 
 ### Challanges in Analysis
-- Pivot table for showing "Box Office Revenue Based On Month" gave me a hard time shoing just the months flter, upon the creation of the table, Release Date field only showed "Year", "Quarters", "Release Date". There was no option to filter to only months, I had to ungroup the release date column and regroup by months after which the line graph worked as intended.
-- 
+- Pivot table for showing "Box Office Revenue Based On Month" gave me a hard time shoing just the months flter, upon the creation of the table, Release Date field only showed "Year", "Quarters", "Release Date". There was no option to filter to only months, I had to ungroup the release date column and regroup by months after which the line graph worked as intended.![Grouping By Month Screenshot](https://github.com/user-attachments/assets/8aa3df72-5113-4773-b073-fb0746332e55)
+
