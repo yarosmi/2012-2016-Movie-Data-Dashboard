@@ -25,3 +25,10 @@ Movie Data: The primary dataset used for this analysis is the "Movies Data Ready
    - Cross-checked data from Pivot tables for errors or inconsistencies in the cleaned dataset before analysis.
  - The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/d1667edb9088bd605ec685a49328fbb740514b03/Apple%20TV%20Movie%20Data%20Dashboard%20-%20Yaraslau%20S.xlsx)
 
+### Questions for Data Analysis
+1. What is the most profitable quarter for movies from all combined years and genres?
+2. What were the top 5 movies by profit and budget in 2014?
+3. Who were the top performing cast in the Action movie genre from from all combined years?
+4. What is the most profitable movie from all combined years?
+
+### Results and Findings
