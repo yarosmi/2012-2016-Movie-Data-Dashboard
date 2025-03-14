@@ -7,7 +7,7 @@ An Excel dashboard with movie data statistics from 2012-2016.
 This data analysis project focuses on uncovering insights of the performance and trends of movies released between 2012 and 2016. Through a comprehensive analysis of various aspects of the movie dataset, the goal is to identify patterns, provide data-driven recommendations, and develop a deeper understanding of the industry's dynamics during this period.
 
 ### Data Source
-Movie Data: The primary dataset used for this analysis is the "Movies Data Ready for Dashboard.xlsx" file, containing detailed information about each movie such as its' box office performance, genre, cast, directors and more.
+Movie Data: The primary dataset used for this analysis is the "Movies Data Ready for Dashboard.xlsx" file, containing detailed information about each movie such as its' box office performance, genre, cast, directors and more. - The source file with cleaned and prepared data for the dashboard can be downloaded here: 
 
 ### Tools
 - Power Query: Used to clean data from the source file.
@@ -23,3 +23,4 @@ Movie Data: The primary dataset used for this analysis is the "Movies Data Ready
    - Removing extra spaces, special characters, and inconsistencies in the dataset for automation legibility.
  - Validation of Cleaned Data:
    - Cross-checked data from Pivot tables for errors or inconsistencies in the cleaned dataset before analysis.
+ - The interactive dashboard with post cleaned and prepared data can be downloded here: 
