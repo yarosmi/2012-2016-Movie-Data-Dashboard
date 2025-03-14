@@ -7,7 +7,7 @@ An Excel dashboard with movie data statistics from 2012-2016.
 This data analysis project focuses on uncovering insights of the performance and trends of movies released between 2012 and 2016. Through a comprehensive analysis of various aspects of the movie dataset, the goal is to identify patterns, provide data-driven recommendations, and develop a deeper understanding of the industry's dynamics during this period.
 
 ### Data Source
-Movie Data: The primary dataset used for this analysis is the "Movies Data Ready for Dashboard.xlsx" file, containing detailed information about each movie such as its' box office performance, genre, cast, directors and more. - The source file with cleaned and prepared data for the dashboard can be downloaded here: 
+Movie Data: The primary dataset used for this analysis is the [Movies Data Ready for Dashboard.xlsx](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/226ebc0650518879ad1c8d56cedfdb90dcd04bb4/Movies%20Data%20Ready%20for%20Dashboard.xlsx) file, containing detailed information about each movie such as its' box office performance, genre, cast, directors and more.
 
 ### Tools
 - Power Query: Used to clean data from the source file.
@@ -36,4 +36,7 @@ Preview of how the dashboard will look when you open it: ![Dashboard Screenshot]
 
 ### Results and Findings
 - Horror dominates in profitability with The Devil Inside's box office revenue of $102,000,000 USD, making it a safe pick for studios targeting high ROI with low budgets. ![Best Profitable Movie Screenshot](https://github.com/user-attachments/assets/18eccef0-6278-4bff-92bd-53a7be5effcc)
+- Biography, Sports and Musical genres have negative average ROIs, likely due to niche audiences and underperformance.
 - 
+
+### Challanges in Analysis
