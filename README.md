@@ -1,4 +1,4 @@
-# 2012-2016 Movie Data Dashboard
+# Apple TV Movie Data Dashboard (2012-2016)
 An Excel dashboard with movie statistics from 2012-2016.
 
 ### Table of Content
