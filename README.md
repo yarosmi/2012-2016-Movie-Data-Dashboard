@@ -1,5 +1,5 @@
 # 2012-2016 Movie Data Dashboard
-An Excel dashboard with movie data statistics from 2012-2016.
+An Excel dashboard with movie statistics from 2012-2016.
 
 ### Table of Content
 - [Project Overview](#project-overview)
@@ -12,7 +12,7 @@ An Excel dashboard with movie data statistics from 2012-2016.
 - [Challanges in Analysis](#challanges-in-analysis)
 
 ### Project Overview
-This data analysis project focuses on uncovering insights of the performance and trends of movies released between 2012 and 2016. Through a comprehensive analysis of various aspects of the movie dataset, the goal is to identify patterns, provide data-driven recommendations, and develop a deeper understanding of the industry's dynamics during this period.
+This data analysis project focuses on uncovering insights of performance and trends of movies released between 2012 and 2016 for Apple TV producers. Through a comprehensive analysis of various aspects of the movie dataset, the goal is to identify patterns, provide data-driven recommendations, and develop a deeper understanding of the industry's dynamics during this period.
 
 ### Data Source
 Movie Data: The primary dataset used for this analysis is the [Movies Data Ready for Dashboard.xlsx](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/226ebc0650518879ad1c8d56cedfdb90dcd04bb4/Movies%20Data%20Ready%20for%20Dashboard.xlsx) file, containing detailed and cleaned information about each movie such as its' box office performance, genre, cast, directors and more.
@@ -31,7 +31,6 @@ Movie Data: The primary dataset used for this analysis is the [Movies Data Ready
    - Removing extra spaces, special characters, and inconsistencies in the dataset for automation legibility.
  - Validation of Cleaned Data:
    - Cross-checked data from Pivot tables for errors or inconsistencies in the cleaned dataset before analysis.
- - The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/d1667edb9088bd605ec685a49328fbb740514b03/Apple%20TV%20Movie%20Data%20Dashboard%20-%20Yaraslau%20S.xlsx)
 
 ### Questions for Data Analysis
 1. What is the most profitable quarter for movies from all combined years and genres?
@@ -40,7 +39,8 @@ Movie Data: The primary dataset used for this analysis is the [Movies Data Ready
 4. What is the most profitable movie from all combined years?
 
 ### Dashboard
-Preview of how the dashboard will look when you open it: ![Dashboard Screenshot](https://github.com/user-attachments/assets/44eedda5-bc6e-452a-b37e-f6279c615b22)
+The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/d1667edb9088bd605ec685a49328fbb740514b03/Apple%20TV%20Movie%20Data%20Dashboard%20-%20Yaraslau%20S.xlsx)
+- Preview of how the dashboard will look when you open it: ![Dashboard Screenshot](https://github.com/user-attachments/assets/44eedda5-bc6e-452a-b37e-f6279c615b22)
 
 ### Results and Findings
 - ![Best Profitable Movie Screenshot](https://github.com/user-attachments/assets/18eccef0-6278-4bff-92bd-53a7be5effcc) Horror dominates in profitability with The Devil Inside's box office revenue of $102,000,000 USD, making it a safe pick for studios targeting high ROI with low budgets.
@@ -52,4 +52,3 @@ Preview of how the dashboard will look when you open it: ![Dashboard Screenshot]
 
 ### Challanges in Analysis
 - Pivot table for showing "Box Office Revenue Based On Month" gave me a hard time shoing just the months flter, upon the creation of the table, Release Date field only showed "Year", "Quarters", "Release Date". There was no option to filter to only months, I had to ungroup the release date column and regroup by months after which the line graph worked as intended.![Grouping By Month Screenshot](https://github.com/user-attachments/assets/8aa3df72-5113-4773-b073-fb0746332e55)
-
