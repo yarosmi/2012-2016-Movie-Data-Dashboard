@@ -39,7 +39,7 @@ Movie Data: The primary dataset used for this analysis is the [Movies Data Ready
 4. What is the most profitable movie from all combined years?
 
 ### Dashboard
-The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/d1667edb9088bd605ec685a49328fbb740514b03/Apple%20TV%20Movie%20Data%20Dashboard%20-%20Yaraslau%20S.xlsx) or see the [published version](https://app.powerbi.com/Redirect?action=OpenApp&appId=6641df03-2dfb-4c69-8809-02d22298eead&ctid=bcb5764e-ead9-4a1b-a125-348f0e65f5eb&experience=power-bi.) on Power BI website.
+The interactive dashboard with post cleaned and prepared data can be downloded here: [Apple TV Movie Data Dashboard](https://github.com/yarosmi/2012-2016-Movie-Data-Dashboard/blob/d1667edb9088bd605ec685a49328fbb740514b03/Apple%20TV%20Movie%20Data%20Dashboard%20-%20Yaraslau%20S.xlsx) or see the [published version](https://app.powerbi.com/Redirect?action=OpenApp&appId=6641df03-2dfb-4c69-8809-02d22298eead&ctid=bcb5764e-ead9-4a1b-a125-348f0e65f5eb&experience=power-bi.) on the Power BI website.
 - Preview of how the dashboard will look when you open it: ![Dashboard Screenshot](https://github.com/user-attachments/assets/44eedda5-bc6e-452a-b37e-f6279c615b22)
 
 ### Results and Findings
